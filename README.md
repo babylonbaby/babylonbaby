@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @babylonbaby
 - 👀 I’m interested in analytics
-- 🌱 I’m currently learning Pyton
+- 🌱 I’m currently learning Pyton 3.0
 - 📫 How to reach me @babylonbaby / Telegram
 
 <!---
